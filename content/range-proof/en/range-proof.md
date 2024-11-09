@@ -186,7 +186,7 @@ Note that $\mathbf{k}$ is not Hadamard multiplied with $\mathbf{y}^n$, but the l
 
 For now, we compute $t(x)$ as
 
-$$t(x)=vz+t_1x+t_2x$$
+$$t(x)=vz+t_1x+t_2x^2$$
 
 where
 
